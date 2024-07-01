@@ -1,2 +1,2 @@
-# UNDERWATER-PACK
-Short GDI Malware LMAO (Basic GDI Malware again) XD
+# Underwater
+C++ short skidded GDI trojan by Hugopako
